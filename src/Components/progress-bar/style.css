@@ -1,0 +1,19 @@
+.progress-bar{
+    height: 30px;
+    background-color: blue;
+    border-radius: 20px;
+}
+.progress{
+    width: 50%;
+    background-color: white;
+    border-radius: 20px;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+body{
+    background-color: #3c3744;
+}
